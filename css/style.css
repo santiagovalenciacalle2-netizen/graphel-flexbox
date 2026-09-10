@@ -43,6 +43,35 @@ header nav ul li a{
     font-size: 0.8rem;
 }
 
+.boletin{
+    width: 100vw;
+    background-color: #212529;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.boletin span{
+    color: white;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.boletin form input{
+    width: 200px;
+    padding: 4px;
+}
+
+.boletin form button{
+    width: 100px;
+    padding: 5px;
+    color: white;
+    background-color: #e8491d;
+    border-color: #e8491d;
+}
+
 footer{
     background-color: #1293d4;
 }
