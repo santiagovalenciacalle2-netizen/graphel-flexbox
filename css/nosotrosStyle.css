@@ -2,3 +2,53 @@
     color: #0088CC;
 }
 
+main{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+}
+
+main section{
+    width: 70%;
+    margin-right: 1rem;
+}
+
+main section h1{
+    margin-bottom: 16px;
+    font-size: 1.3rem;
+}
+
+main section p{
+    margin-bottom: 16px;
+}
+
+.segundoTexto{
+    width: 100%;
+    background-color: #35424a;
+    color: white;
+    padding: 18px;
+    margin: 8px 0px 8px 0px;
+}
+
+.segundoTexto p{
+    margin-bottom: 0;
+}
+
+.imageNosotros{
+    width: 100%;
+    margin-top: 16px;
+    position: relative;
+}
+
+.imageNosotros img{
+    width: 100%;
+}
+
+aside{
+    width: 350px;
+    height: 200px;
+    background-color: #35424a;
+    color: white;
+    padding: 18px 18px 0px 18px;
+}
