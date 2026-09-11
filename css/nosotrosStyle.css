@@ -10,8 +10,9 @@
 }
 
 .sectionNosotros{
-    width: 70%;
-    margin-right: 1rem;
+    width: 60%;
+    margin-right: 9px;
+    margin-left: 3rem;
 }
 
 .sectionNosotros h1{
@@ -47,7 +48,7 @@
 
 aside{
     width: 350px;
-    margin-right: 3rem;
+    margin-right: 5rem;
 }
 
 .asideDivInfo{
@@ -69,8 +70,8 @@ aside{
 
 .formSection{
     width: 60%;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 60px;
+    margin-right: 12px;
 }
 
 .formSection form{
