@@ -81,7 +81,6 @@ aside{
 
 .formSection input{
     width: 100%;
-    border-color: black;
     margin: 4px 0px 16px 0px;
     padding: 12px 4px;
 }
@@ -91,6 +90,14 @@ aside{
     height: 150px;
     margin-top: 4px;
     margin-bottom: 16px;
+}
+
+.formSection button{
+    width: 99%;
+    padding: 12px;
+    color: white;
+    background-color: #e8491d;
+    border-color: #e8491d;
 }
 
 .map{
