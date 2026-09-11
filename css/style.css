@@ -15,6 +15,9 @@ header{
     padding: 24px 32px 24px 32px;
 }
 
+header div{
+    margin-left: 90px;
+}
 
 header div p{
     font-size: 1.6rem;
@@ -29,6 +32,7 @@ header div p span{
 
 header nav{
     width: 400px;
+    margin-right: 90px;
 }
 
 header nav ul{
@@ -56,19 +60,24 @@ header nav ul li a{
 
 .boletin span{
     color: white;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+    margin-left: 90px;
+}
+
+.boletin form{
+    margin-right: 90px;
 }
 
 .boletin form input{
-    width: 200px;
-    padding: 4px;
+    width: 245px;
+    padding: 8px;
 }
 
 .boletin form button{
     width: 100px;
-    padding: 5px;
+    padding: 7px;
     color: white;
     background-color: #e8491d;
     border-color: #e8491d;

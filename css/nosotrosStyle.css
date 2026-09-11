@@ -81,6 +81,7 @@ aside{
 
 .formSection input{
     width: 100%;
+    border-color: black;
     margin: 4px 0px 16px 0px;
     padding: 12px 4px;
 }
